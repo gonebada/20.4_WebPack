@@ -5,6 +5,6 @@ const Title = props =>
     <div className='title'>
         <h1>{props.title}</h1>
         <p>Task number {props.numberOfTasks}</p>
-    </div>;
+    </div>
 
 export default Title;
